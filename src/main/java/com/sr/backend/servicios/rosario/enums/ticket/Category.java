@@ -1,0 +1,16 @@
+package com.serviciosRosario.ServiciosRosario.enums.ticket;
+
+public enum Category {
+    CAMBIO_DE_PLAN,
+    DESINSTALACIONES_FIBRA,
+    DESINSTALACIONES_ANTENA,
+    DEUDORES,
+    ESPERA_AMPLIACION,
+    ESPERA_AMPLIACION_NUEVA,
+    INSTALACION,
+    MOROSOS,
+    MUDANZA,
+    SERVICIO_TECNICO_ANTENA,
+    SERVICIO_TECNICO_FIBRA,
+    SIN_SERVICIO
+}
